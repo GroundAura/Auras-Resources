@@ -1,4 +1,4 @@
-# Banners (Skyrim-1)
+# Banners ([Skyrim-1](https://github.com/GroundAura/Auras-Resources/tree/main/Images/Banners/Skyrim-1))
 
 ## Compatibility
 
