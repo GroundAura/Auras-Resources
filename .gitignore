@@ -16,7 +16,7 @@ build/
 *temp*.*
 *test*.*
 .vscode/settings.json
-src/
+#src/
 
 # Ideas #
 .idea/
