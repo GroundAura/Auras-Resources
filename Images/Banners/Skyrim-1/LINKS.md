@@ -16,6 +16,14 @@ https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners
 
 ![Contributing](https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Contributing.png)
 
+## Contributing & Source
+
+```txt
+https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Contributing%20%26%20Source.png
+```
+
+![Contributing & Source](https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Contributing%20%26%20Source.png)
+
 ## Credits & Thanks
 
 ```txt
